@@ -1,4 +1,4 @@
-# OpenTrackDSUServer
+# OpenTrackFreeLook
 
 Receives OpenTrack data and sends it to Dolphin FreeLook
 
